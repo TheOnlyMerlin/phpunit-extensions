@@ -13,7 +13,7 @@
         "php": ">=5.3.6",
         "phpunit/PHPUnit": ">=3.6.10",
 	"sebastian/exporter": "1.0.*",
-        "mockery/mockery": "0.8.0"
+        "mockery/mockery": "~0.8"
     },
     "autoload": {
         "classmap": [
